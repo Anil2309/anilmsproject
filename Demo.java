@@ -1,4 +1,5 @@
 public class Demo
   {
-    int a=10;
+    int k=1;
+int j=2;
   }
