@@ -1,5 +1,7 @@
 public class Demo
   {
-    int k=1;
-int j=2;
+String name="ANil";
+double dec=2.2;
+int q=1;
+int l=12;
   }
