@@ -1,5 +1,6 @@
 public class Demo
   {
+    ()
     public static void main(String [] args
   int f=100;
     int j=120020;
