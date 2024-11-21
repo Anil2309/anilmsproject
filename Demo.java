@@ -7,4 +7,5 @@ public class Demo
     system.out.println("Hello world.!");
 String Mall="Hii mallikarjun "
   int k=11;
+long g=gkfkhb;
   }
