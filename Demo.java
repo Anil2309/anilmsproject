@@ -5,5 +5,5 @@ public class Demo
   int f=100;
     int j=120020;
     system.out.println("Hello world.!");
-
+String Mall="Hii mallikarjun "
   }
